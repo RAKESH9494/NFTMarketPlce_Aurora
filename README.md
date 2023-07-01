@@ -1,5 +1,4 @@
 # How to Run the Project
-
 ## Step1  :  Setup the Aurora Testnet in Metamask
 1. Head over to the Settings in Metamask.<br/>
 2. Then go to the Networks . There is option Add a network, click on it.<br/>
