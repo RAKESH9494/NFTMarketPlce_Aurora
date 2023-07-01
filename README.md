@@ -1,3 +1,5 @@
+# Description
+An NFT marketplace on the Aurora blockchain is a platform where users can buy, sell, and trade non-fungible tokens. It leverages the Aurora blockchain, which utilizes the Ethereum Virtual Machine (EVM) and offers fast and low-cost transactions. The marketplace provides a user-friendly interface, secure transactions through Aurora-compatible wallets, and smart contracts specifically designed for NFTs on the Aurora network
 # How to Run the Project
 ## Step1  :  Setup the Aurora Testnet in Metamask
 1. Head over to the Settings in Metamask.<br/>
