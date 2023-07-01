@@ -38,5 +38,6 @@ Block explorer URL: https://testnet.aurorascan.dev<br/>
 2. After click on Resale, its asks to enter the price of the NFT.<br/>
 3. Then click on OK and confirm the transaction.<br/>
 4. It will get added to the LIVE NFTs page after transaction is successful.<br/>
-  
+
+Demo video: https://drive.google.com/file/d/1EHitiVmCXJaxto8Cpdg8hX6fBcfznwru/view?usp=sharing
 Live link : https://nftmarketplaceaurora.netlify.app/
