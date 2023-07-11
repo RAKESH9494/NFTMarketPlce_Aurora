@@ -20,8 +20,8 @@ const Mint = (props) => {
               url:'https://api.pinata.cloud/pinning/pinFileToIPFS',
               data:formData,
               headers:{
-                pinata_api_key :'bb34ce1e3ef6ee4e9723',
-                pinata_secret_api_key:'53217f0e61442401ca639e1bcfb00a6a288e60e16ebe98024b3291170dee8b28',
+                pinata_api_key :'api_key',
+                pinata_secret_api_key:"Your API Secret key",
                 "Content-Type":"multipart/form-data",
               }
             });
