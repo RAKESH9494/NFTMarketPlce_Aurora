@@ -8,8 +8,8 @@ module.exports = {
  networks: {
    hardhat: {},
    aurora_testnet: {
-    url: 'https://aurora-testnet.infura.io/v3/8c698cf7a21a45df9dbe0cfa11a3d905',
-    accounts: [`0xd180f1781f91a5daeea1714f43cbb722bb39b14872affa4fb01d0bba36e628ff`],
+    url: 'https://aurora-testnet.infura.io/v3/API_KEY',
+    accounts: [`YOUR_PRIVATE_KEY`],
     chainId: 1313161555
   }
  },
